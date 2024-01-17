@@ -132,7 +132,7 @@ function dashboard() {
                 fontSize: "60px",
               }}
             >
-              Services We're Offering
+              Services We are Offering
             </h1>
             <div>
               <Cards />
